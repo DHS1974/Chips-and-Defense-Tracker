@@ -1,9 +1,154 @@
 {
-  "generated_at": "1970-01-01T00:00:00+00:00",
-  "stocks": [],
+  "generated_at": "2026-08-16T11:22+00:00",
+  "stocks": [
+    {
+      "ticker": "SNDK",
+      "name": "SanDisk",
+      "country": "United States",
+      "sector": "chips",
+      "price": 1641.11,
+      "currency": "USD",
+      "target": "2,108 USD",
+      "rating": "buy",
+      "badge": "Buy",
+      "analysts": "23 analysts"
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "country": "United States",
+      "sector": "chips",
+      "price": 971.66,
+      "currency": "USD",
+      "target": "1,502 USD",
+      "rating": "buy",
+      "badge": "Strong Buy",
+      "analysts": "43 analysts"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "country": "United States",
+      "sector": "chips",
+      "price": 225.16,
+      "currency": "USD",
+      "target": "303 USD",
+      "rating": "buy",
+      "badge": "Strong Buy",
+      "analysts": "58 analysts"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "country": "United States",
+      "sector": "chips",
+      "price": 392.99,
+      "currency": "USD",
+      "target": "528 USD",
+      "rating": "buy",
+      "badge": "Strong Buy",
+      "analysts": "45 analysts"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor",
+      "country": "Taiwan",
+      "sector": "chips",
+      "price": 426.35,
+      "currency": "USD",
+      "target": "547 USD",
+      "rating": "buy",
+      "badge": "Strong Buy",
+      "analysts": "18 analysts"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "country": "United States",
+      "sector": "chips",
+      "price": 514.39,
+      "currency": "USD",
+      "target": "613 USD",
+      "rating": "buy",
+      "badge": "Strong Buy",
+      "analysts": "47 analysts"
+    },
+    {
+      "ticker": "RHM.DE",
+      "name": "Rheinmetall",
+      "country": "Germany",
+      "sector": "defense",
+      "price": 1202.0,
+      "currency": "EUR",
+      "target": "1,677 EUR",
+      "rating": "buy",
+      "badge": "Buy",
+      "analysts": "21 analysts"
+    },
+    {
+      "ticker": "SAAB-B.ST",
+      "name": "Saab",
+      "country": "Sweden",
+      "sector": "defense",
+      "price": 692.7,
+      "currency": "SEK",
+      "target": "613 SEK",
+      "rating": "buy",
+      "badge": "Buy",
+      "analysts": "13 analysts"
+    },
+    {
+      "ticker": "HO.PA",
+      "name": "Thales",
+      "country": "France",
+      "sector": "defense",
+      "price": 270.4,
+      "currency": "EUR",
+      "target": "295 EUR",
+      "rating": "buy",
+      "badge": "Buy",
+      "analysts": "19 analysts"
+    },
+    {
+      "ticker": "LDO.MI",
+      "name": "Leonardo",
+      "country": "Italy",
+      "sector": "defense",
+      "price": 59.9,
+      "currency": "EUR",
+      "target": "69 EUR",
+      "rating": "buy",
+      "badge": "Buy",
+      "analysts": "19 analysts"
+    },
+    {
+      "ticker": "BA.L",
+      "name": "BAE Systems",
+      "country": "United Kingdom",
+      "sector": "defense",
+      "price": 2258.0,
+      "currency": "GBp",
+      "target": "2,343 GBp",
+      "rating": "buy",
+      "badge": "Buy",
+      "analysts": "19 analysts"
+    },
+    {
+      "ticker": "KOG.OL",
+      "name": "Kongsberg Gruppen",
+      "country": "Norway",
+      "sector": "defense",
+      "price": 336.7,
+      "currency": "NOK",
+      "target": "393 NOK",
+      "rating": "buy",
+      "badge": "Buy",
+      "analysts": "10 analysts"
+    }
+  ],
   "summaries": [],
   "pulse": {
-    "chips": "No data yet — this fills in after the first scheduled run (or after you run `python build_dashboard.py` locally).",
-    "defense": "No data yet — this fills in after the first scheduled run (or after you run `python build_dashboard.py` locally)."
+    "chips": "No data yet \u2014 this fills in after the first scheduled run (or after you run `python build_dashboard.py` locally).",
+    "defense": "No data yet \u2014 this fills in after the first scheduled run (or after you run `python build_dashboard.py` locally)."
   }
 }
