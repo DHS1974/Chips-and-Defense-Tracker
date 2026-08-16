@@ -1,1 +1,41 @@
-- cron: '30 6 * 11-12,1-3 *' - cron: '30 5 * 4-10 *' workflow_dispatch: {} permissions: contents: write concurrency: group: daily-dashboard-update cancel-in-progress: false jobs: update: runs-on: ubuntu-latest steps: - uses: actions/checkout@v4 - uses: actions/setup-python@v5 with: python-version: '3.12' - name: Install dependencies run: pip install -r requirements.txt - name: Build dashboard data env: ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} run: python build_dashboard.py - name: Commit and push if changed run: | git config user.name "dashboard-bot" git config user.email "dashboard-bot@users.noreply.github.com" git add docs/data.json git diff --cached --quiet || git commit -m "Daily dashboard refresh" git pull --rebase origin main git push
+name: Daily dashboard update
+
+on:
+  schedule:
+    - cron: '30 6 * 11-12,1-3 *'
+    - cron: '30 5 * 4-10 *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-dashboard-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build dashboard data
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python build_dashboard.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "dashboard-bot"
+          git config user.email "dashboard-bot@users.noreply.github.com"
+          git add docs/data.json
+          git diff --cached --quiet || git commit -m "Daily dashboard refresh"
+          git pull --rebase origin main
+          git push
