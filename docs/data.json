@@ -1,0 +1,9 @@
+{
+  "generated_at": "1970-01-01T00:00:00+00:00",
+  "stocks": [],
+  "summaries": [],
+  "pulse": {
+    "chips": "No data yet — this fills in after the first scheduled run (or after you run `python build_dashboard.py` locally).",
+    "defense": "No data yet — this fills in after the first scheduled run (or after you run `python build_dashboard.py` locally)."
+  }
+}
