@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:04+00:00",
+  "generated_at": "2026-08-23T07:22+00:00",
   "stocks": [
     {
       "ticker": "SNDK",
@@ -20,7 +20,7 @@
       "sector": "chips",
       "price": 966.78,
       "currency": "USD",
-      "target": "1,522 USD",
+      "target": "1,515 USD",
       "rating": "buy",
       "badge": "Strong Buy",
       "analysts": "44 analysts"
@@ -32,10 +32,10 @@
       "sector": "chips",
       "price": 214.72,
       "currency": "USD",
-      "target": "304 USD",
+      "target": "305 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "58 analysts"
+      "analysts": "59 analysts"
     },
     {
       "ticker": "AVGO",
@@ -44,10 +44,10 @@
       "sector": "chips",
       "price": 368.45,
       "currency": "USD",
-      "target": "528 USD",
+      "target": "526 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "45 analysts"
+      "analysts": "46 analysts"
     },
     {
       "ticker": "TSM",
@@ -68,10 +68,10 @@
       "sector": "chips",
       "price": 473.25,
       "currency": "USD",
-      "target": "614 USD",
+      "target": "613 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "47 analysts"
+      "analysts": "48 analysts"
     },
     {
       "ticker": "RHM.DE",
