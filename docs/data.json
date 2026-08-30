@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T05:34+00:00",
+  "generated_at": "2026-08-30T05:34+00:00",
   "stocks": [
     {
       "ticker": "SNDK",
@@ -32,7 +32,7 @@
       "sector": "chips",
       "price": 217.55,
       "currency": "USD",
-      "target": "306 USD",
+      "target": "323 USD",
       "rating": "buy",
       "badge": "Strong Buy",
       "analysts": "58 analysts"
@@ -57,8 +57,8 @@
       "price": 417.52,
       "currency": "USD",
       "target": "554 USD",
-      "rating": "buy",
-      "badge": "Strong Buy",
+      "rating": "hold",
+      "badge": "N/A",
       "analysts": "18 analysts"
     },
     {
@@ -92,9 +92,9 @@
       "sector": "defense",
       "price": 639.6,
       "currency": "SEK",
-      "target": "613 SEK",
-      "rating": "hold",
-      "badge": "N/A",
+      "target": "616 SEK",
+      "rating": "buy",
+      "badge": "Buy",
       "analysts": "13 analysts"
     },
     {
@@ -105,8 +105,8 @@
       "price": 244.7,
       "currency": "EUR",
       "target": "295 EUR",
-      "rating": "buy",
-      "badge": "Buy",
+      "rating": "hold",
+      "badge": "N/A",
       "analysts": "19 analysts"
     },
     {
@@ -117,8 +117,8 @@
       "price": 52.87,
       "currency": "EUR",
       "target": "69 EUR",
-      "rating": "buy",
-      "badge": "Buy",
+      "rating": "hold",
+      "badge": "N/A",
       "analysts": "19 analysts"
     },
     {
@@ -129,8 +129,8 @@
       "price": 2044.0,
       "currency": "GBp",
       "target": "2,343 GBp",
-      "rating": "buy",
-      "badge": "Buy",
+      "rating": "hold",
+      "badge": "N/A",
       "analysts": "19 analysts"
     },
     {
