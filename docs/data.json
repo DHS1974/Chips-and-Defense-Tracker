@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:37+00:00",
+  "generated_at": "2026-09-14T05:38+00:00",
   "stocks": [
     {
       "ticker": "SNDK",
@@ -32,10 +32,10 @@
       "sector": "chips",
       "price": 218.29,
       "currency": "USD",
-      "target": "328 USD",
+      "target": "327 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "57 analysts"
+      "analysts": "58 analysts"
     },
     {
       "ticker": "AVGO",
@@ -71,7 +71,7 @@
       "target": "615 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "49 analysts"
+      "analysts": "50 analysts"
     },
     {
       "ticker": "RHM.DE",
