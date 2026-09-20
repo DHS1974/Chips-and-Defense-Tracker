@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:40+00:00",
+  "generated_at": "2026-09-20T09:56+00:00",
   "stocks": [
     {
       "ticker": "SNDK",
@@ -35,7 +35,7 @@
       "target": "328 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "58 analysts"
+      "analysts": "59 analysts"
     },
     {
       "ticker": "AVGO",
@@ -104,7 +104,7 @@
       "sector": "defense",
       "price": 238.2,
       "currency": "EUR",
-      "target": "295 EUR",
+      "target": "293 EUR",
       "rating": "buy",
       "badge": "Buy",
       "analysts": "19 analysts"
