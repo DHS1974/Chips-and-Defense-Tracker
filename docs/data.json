@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:33+00:00",
+  "generated_at": "2026-10-18T09:46+00:00",
   "stocks": [
     {
       "ticker": "SNDK",
@@ -68,10 +68,10 @@
       "sector": "chips",
       "price": 528.75,
       "currency": "USD",
-      "target": "636 USD",
+      "target": "628 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "50 analysts"
+      "analysts": "51 analysts"
     },
     {
       "ticker": "RHM.DE",
