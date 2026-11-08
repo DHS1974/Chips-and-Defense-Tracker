@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:22+00:00",
+  "generated_at": "2026-11-08T13:42+00:00",
   "stocks": [
     {
       "ticker": "SNDK",
@@ -10,7 +10,7 @@
       "currency": "USD",
       "target": "2,047 USD",
       "rating": "buy",
-      "badge": "Buy",
+      "badge": "Strong Buy",
       "analysts": "24 analysts"
     },
     {
@@ -44,10 +44,10 @@
       "sector": "chips",
       "price": 293.69,
       "currency": "USD",
-      "target": "527 USD",
+      "target": "533 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "48 analysts"
+      "analysts": "47 analysts"
     },
     {
       "ticker": "TSM",
@@ -68,10 +68,10 @@
       "sector": "chips",
       "price": 449.04,
       "currency": "USD",
-      "target": "656 USD",
+      "target": "660 USD",
       "rating": "buy",
       "badge": "Strong Buy",
-      "analysts": "48 analysts"
+      "analysts": "47 analysts"
     },
     {
       "ticker": "RHM.DE",
@@ -80,10 +80,10 @@
       "sector": "defense",
       "price": 812.7,
       "currency": "EUR",
-      "target": "1,519 EUR",
+      "target": "1,475 EUR",
       "rating": "buy",
       "badge": "Buy",
-      "analysts": "21 analysts"
+      "analysts": "22 analysts"
     },
     {
       "ticker": "SAAB-B.ST",
