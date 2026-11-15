@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:42+00:00",
+  "generated_at": "2026-11-15T14:10+00:00",
   "stocks": [
     {
       "ticker": "SNDK",
@@ -32,7 +32,7 @@
       "sector": "chips",
       "price": 162.85,
       "currency": "USD",
-      "target": "283 USD",
+      "target": "277 USD",
       "rating": "buy",
       "badge": "Buy",
       "analysts": "53 analysts"
